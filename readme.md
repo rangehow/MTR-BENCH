@@ -4,8 +4,7 @@ This repository hosts the **MTR** (Multi-turn Dialogue Retrieval) benchmark, des
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
+- [Resource](#Resource)
 - [Benchmarking](#benchmarking)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,18 +13,9 @@ This repository hosts the **MTR** (Multi-turn Dialogue Retrieval) benchmark, des
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Introduction
 
-The MTR benchmark provides a challenging dataset designed to evaluate the performance of dialogue retrieval models in multi-turn settings. It is particularly aimed at addressing the requirements of modern industrial applications, where dialogue systems must efficiently handle real-time conversations with users while considering context and user intent.
 
-Key aspects of the MTR benchmark:
-- **Multi-turn dialogues**: Focuses on real-world, multi-turn conversations instead of single-turn interactions.
-- **Industrial application relevance**: Includes dialogues from various industry sectors, including customer service, technical support, and e-commerce.
-- **Realistic challenges**: Incorporates noisy and incomplete dialogue data typical of industrial applications.
-
-For more details on the methodology and experimental setup, please refer to the paper: [MTR: A Multi-turn Dialogue Retrieval Benchmark for Modern Industrial Applications](#link-to-paper).
-
-## Dataset
+## Resource
 
 The MTR benchmark consists of a large-scale dataset that includes:
 - **Multi-turn dialogues**: Conversations spanning several turns between users and service agents.
